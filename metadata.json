@@ -1,0 +1,6 @@
+{
+  "name": "ServerEdu Monitor - Dasbor Proyek Kelas 7",
+  "description": "Sistem monitoring performa server real-time dan pelacak progres proyek siswa kelas 7 dengan sistem poin 100% dan notifikasi target milestone.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
